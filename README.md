@@ -40,7 +40,7 @@ This is a flask application that will help users list and preview news articles 
 * Python3.6
 * Flask framework
 ## live site
-* https://news001.herokuapp.com/
+* https://news002.herokuapp.com/
 ## Support and contact details
 
 If you run into any issues or have questions, ideas or concerns contact katanahussein17@yahoo.com
